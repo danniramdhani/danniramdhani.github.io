@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>danniramdhani</title>
-    <link>http://example.org/</link>
+    <link>https://danniramdhani.github.io/</link>
     <description>Recent content on danniramdhani</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://danniramdhani.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://danniramdhani.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://danniramdhani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testt</title>
-      <link>http://example.org/posts/testt/</link>
+      <link>https://danniramdhani.github.io/posts/testt/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/testt/</guid>
+      <guid>https://danniramdhani.github.io/posts/testt/</guid>
       <description>Desc Text.</description>
     </item>
     
